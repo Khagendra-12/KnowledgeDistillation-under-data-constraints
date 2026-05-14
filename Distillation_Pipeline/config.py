@@ -11,5 +11,5 @@ LR = 1e-4
 TEMPERATURE = 4.5
 ALPHA = 0.9
 
-DISTILLED_OUTPUT_DIR = "./outputs/logit-distilled-tinymistral-2"
+DISTILLED_OUTPUT_DIR = "./outputs/logit-distilled-tinymistral"
 DISTILLED_OUTPUT_DIR_S = "./outputs/logit-distilled-tinymistral-Soft"
